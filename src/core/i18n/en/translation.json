@@ -1,0 +1,81 @@
+{
+  "layout": {
+    "navigation": {
+      "items": {
+        "hero": {
+          "title": "About"
+        },
+        "skills": {
+          "title": "Skills"
+        },
+        "howIWork": {
+          "title": "Procces"
+        },
+        "contact": {
+          "title": "Contact"
+        },
+        "theme": {
+          "title": "Theme"
+        },
+        "lang": {
+          "title": "EN"
+        }
+      }
+    }
+  },
+  "body": {
+    "hero": {
+      "section": "ABOUT - 02",
+      "title": "About Me",
+
+      "aboutMe": {
+        "label": "ABOUT ME",
+        "headline": "I build software with intention.",
+        "description": "I'm a software developer focused on building clear, reliable and maintainable systems. I enjoy understanding how things work under the hood, solving complex problems and turning ideas into practical products. My current focus is web development, with a growing interest in backend architecture and machine learning."
+      },
+
+      "whatIDo": {
+        "label": "WHAT I DO",
+        "headline": "Building software from interface to system.",
+
+        "items": {
+          "frontend": {
+            "title": "Frontend",
+            "description": "Building responsive and interactive interfaces with React and TypeScript."
+          },
+          "backend": {
+            "title": "Backend",
+            "description": "Developing reliable APIs and backend systems with Go and PostgreSQL."
+          },
+          "engineering": {
+            "title": "Engineering",
+            "description": "Designing maintainable systems with a focus on architecture and performance."
+          }
+        }
+      },
+
+      "toolbox": {
+        "label": "MY TOOLBOOX"
+      },
+
+      "stats": {
+        "projects": {
+          "value": "08+",
+          "label": "Projects built"
+        },
+        "leetcode": {
+          "value": "30+",
+          "label": "LeetCode problems"
+        },
+        "codewars": {
+          "value": "100+",
+          "label": "CodeWars challenges"
+        },
+        "areas": {
+          "value": "03",
+          "label": "Core areas"
+        }
+      }
+    }
+  }
+}
